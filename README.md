@@ -9,6 +9,7 @@ A simple password generator with a graphical interface built using Python and Tk
 
 ### Passwords 
 <img src="Screenshots/img2.png>" width="700">
+
 <img src="Screenshots/img3.png>" width="700">
 
 ## Features
