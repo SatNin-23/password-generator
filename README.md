@@ -2,39 +2,41 @@
 
 A simple password generator with a graphical interface built using Python and Tkinter.
 
-## ScreenShots
+## 📸 Screenshots
 
 ### Main Interface
-<img src="Screenshots/img1.png" width="700">
+<img src="screenshots/img1.png" width="700"/>
 
-### Passwords 
-<img src="Screenshots/img2.png>" width="700">
+### Generated Password
+<img src="screenshots/img2.png" width="700"/>
 
-<img src="Screenshots/img3.png>" width="700">
+### Strength Indicator
+<img src="screenshots/img3.png" width="700"/>
+
+---
 
 ## Features
 
-* Generate random passwords
-* Set password length (4–32 characters)
-* Displays password strength
-* Copy password to clipboard
-* Save generated passwords to a JSON file
+- Generate random passwords  
+- Set password length (4–32 characters)  
+- Displays password strength  
+- Copy password to clipboard  
+- Save generated passwords to a JSON file  
+
+---
 
 ## Technologies Used
 
-* Python
-* Tkinter
-* JSON file handling
+- Python  
+- Tkinter  
+- JSON file handling  
+
+---
 
 ## How to Run
 
-1. Clone the repository
+1. Clone the repository  
+
 2. Run the program:
-
-```bash id="k3n8fz"
+```bash
 python app.py
-```
-
-## Purpose
-
-This project was built to practice Python fundamentals, working with GUIs, and handling basic file storage.
