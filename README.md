@@ -2,6 +2,15 @@
 
 A simple password generator with a graphical interface built using Python and Tkinter.
 
+## ScreenShots
+
+### Main Interface
+<img src="Screenshots/img1.png" width="700">
+
+### Passwords 
+<img src="Screenshots/img2.png>" width="700">
+<img src="Screenshots/img3.png>" width="700">
+
 ## Features
 
 * Generate random passwords
